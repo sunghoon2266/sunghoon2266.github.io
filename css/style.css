@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+}
+
+body {
+    text-align: center;
+    font-size:25px;
+}
+
+.weather{
+    text-align: right;
+    font-size: 25px;
+}
+
+.clock{
+    font-size: 100px;
+}
